@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 Atualmente estou trabalhando num projeto ERP para pequenas e médias empresas
+- 🔭 Atualmente estou trabalhando na empresa G-Light como Desenvolvedor FrontEnd Júnior
 - 🌱 Estou me aprofundando nos frameworks NextJS e VueJS no frontend, e Django Rest Framework para backend
 - 💬 Posso tentar te ajudar em dúvidas com Javascript, HTML5, CSS3, Python...
 - 😄 Pronomes: Ele/Dele
