@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/jadlucas.png" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jadsonlucas2004@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jadson-lucas-b8a4a3232" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/472882279908245504" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-7289D8?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 ## Estatísticas do GitHub
